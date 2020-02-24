@@ -8,5 +8,5 @@ Check out our DevPost page: https://devpost.com/software/gunn-street-map
 
 **Grid Size: 20x20, Percolation Ratio: 0.8**
 
-<img src="https://i.imgur.com/vqDg0nO.png" width="350">
+<img src="https://i.imgur.com/vqDg0nO.png">
 
